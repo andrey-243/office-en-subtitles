@@ -1,0 +1,16 @@
+{
+  "name": "media-subtitles-addon",
+  "version": "1.0.0",
+  "description": "Subtitles addon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

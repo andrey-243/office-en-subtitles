@@ -1,0 +1,7 @@
+magnets.json
+files.json
+subtitles/
+.claude/
+addon/node_modules/
+addon/.vercel/
+addon/package-lock.json
