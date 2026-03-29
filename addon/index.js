@@ -9,7 +9,6 @@ const manifest = {
   description: "English subtitles addon",
   resources: ["subtitles"],
   types: ["series", "movie", "other"],
-  idPrefixes: ["alldebrid:"],
   catalogs: [],
 };
 
