@@ -1,0 +1,259 @@
+1
+00:00:00,000 --> 00:00:05,000
+Damn, lost another file.
+
+2
+00:00:05,000 --> 00:00:08,000
+Gonna have to reboot again.
+
+3
+00:00:08,000 --> 00:00:12,000
+Hey, Dwight, do you want an Altoid?
+
+4
+00:00:12,000 --> 00:00:15,000
+What do you think?
+
+5
+00:00:15,000 --> 00:00:25,000
+In school, we learned about this scientist who trained dogs to salivate at the sound of a bell by feeding them whenever a bell rang.
+
+6
+00:00:25,000 --> 00:00:30,000
+So for the past couple weeks I've been conducting a similar experiment.
+
+7
+00:00:32,000 --> 00:00:34,000
+Dwight, do you want an Altoid?
+
+8
+00:00:34,000 --> 00:00:35,000
+Okay.
+
+9
+00:00:38,000 --> 00:00:39,000
+Altoid?
+
+10
+00:00:39,000 --> 00:00:40,000
+Sure.
+
+11
+00:00:42,000 --> 00:00:43,000
+Ben Twight?
+
+12
+00:00:43,000 --> 00:00:44,000
+Ben Twight?
+
+13
+00:00:44,000 --> 00:00:46,000
+Yes.
+
+14
+00:00:46,000 --> 00:00:47,000
+Yes.
+
+15
+00:00:53,000 --> 00:00:55,000
+What are you doing?
+
+16
+00:00:56,000 --> 00:00:57,000
+I...
+
+17
+00:00:57,000 --> 00:00:58,000
+What?
+
+18
+00:00:58,000 --> 00:00:59,000
+I don't know.
+
+19
+00:00:59,000 --> 00:01:04,000
+My mouth tastes so bad all of a sudden.
+
+20
+00:01:06,000 --> 00:01:07,000
+Ugh.
+
+21
+00:01:16,000 --> 00:01:43,000
+Always the bridesmaids, right ladies?
+
+22
+00:01:43,000 --> 00:01:47,000
+Okay, for this next one everybody hop out. Just Phyllis and Dad.
+
+23
+00:01:47,000 --> 00:01:54,000
+Actually, let's bring Mom back in and the sisters and you and you and you.
+
+24
+00:01:56,000 --> 00:01:57,000
+Great.
+
+25
+00:01:57,000 --> 00:02:00,000
+Phyllis is getting married and I am in the wedding party.
+
+26
+00:02:00,000 --> 00:02:06,000
+She has asked me to push her father's wheelchair down the aisle, so basically I am co-giving away the bride.
+
+27
+00:02:07,000 --> 00:02:12,000
+Since I pay her salary it is like I am paying for the wedding, which I'm happy to do.
+
+28
+00:02:12,000 --> 00:02:18,000
+It's a big day for Phyllis, but it's an even bigger day for me, employer of the bride.
+
+29
+00:02:19,000 --> 00:02:22,000
+Yes, I put Michael in my wedding.
+
+30
+00:02:22,000 --> 00:02:27,000
+It was the only way I could think to get six weeks off from my honeymoon.
+
+31
+00:02:27,000 --> 00:02:30,000
+No one else has ever gotten six weeks before.
+
+32
+00:02:31,000 --> 00:02:36,000
+Phyllis ended up using the exact same invitations as Roy and me.
+
+33
+00:02:37,000 --> 00:02:44,000
+So it was kind of like being invited to my own wedding and I was like, wait, I thought I called that off.
+
+34
+00:02:47,000 --> 00:02:48,000
+So what's in the box?
+
+35
+00:02:48,000 --> 00:02:50,000
+A toaster. You?
+
+36
+00:02:50,000 --> 00:02:52,000
+A toaster.
+
+37
+00:02:52,000 --> 00:02:54,000
+Unbelievable.
+
+38
+00:02:57,000 --> 00:02:58,000
+Hello Angela.
+
+39
+00:02:58,000 --> 00:02:59,000
+Hi Dwight.
+
+40
+00:02:59,000 --> 00:03:02,000
+You look as beautiful as the Queen of England.
+
+41
+00:03:02,000 --> 00:03:06,000
+Thank you. Don't linger, break left.
+
+42
+00:03:08,000 --> 00:03:09,000
+Left.
+
+43
+00:03:15,000 --> 00:03:17,000
+The Shrewts have their own traditions.
+
+44
+00:03:17,000 --> 00:03:20,000
+We usually marry standing in our own graves.
+
+45
+00:03:20,000 --> 00:03:25,000
+It makes the funerals very romantic, but the weddings are a bleak affair.
+
+46
+00:03:25,000 --> 00:03:28,000
+I really enjoy old fashioned weddings.
+
+47
+00:03:28,000 --> 00:03:31,000
+I'm offended by modern ones, so we'll see.
+
+48
+00:03:33,000 --> 00:03:35,000
+Those flowers are nice.
+
+49
+00:03:35,000 --> 00:03:37,000
+Yeah, P&R.
+
+50
+00:03:38,000 --> 00:03:39,000
+Phyllis and Robert.
+
+51
+00:03:39,000 --> 00:03:41,000
+Of course.
+
+52
+00:03:41,000 --> 00:03:43,000
+Also Pam and Roy.
+
+53
+00:03:45,000 --> 00:03:47,000
+There she is.
+
+54
+00:03:48,000 --> 00:03:53,000
+I swear Phyllis, you are as beautiful as the first day you started work at Dunder Mifflin.
+
+55
+00:03:53,000 --> 00:03:57,000
+Thanks Michael, that's sweet. Same as when you said it outside.
+
+56
+00:03:58,000 --> 00:03:59,000
+How you doing?
+
+57
+00:03:59,000 --> 00:04:00,000
+Are you excited?
+
+58
+00:04:00,000 --> 00:04:01,000
+Yes, very.
+
+59
+00:04:01,000 --> 00:04:02,000
+Me too.
+
+60
+00:04:03,000 --> 00:04:08,000
+If you need to vomit, that is okay. I did.
+
+61
+00:04:08,000 --> 00:04:09,000
+Do you want to talk about tonight?
+
+62
+00:04:09,000 --> 00:04:10,000
+No.
+
+63
+00:04:10,000 --> 00:04:15,000
+Because I know you're probably worried about pleasing Bob. A lot of pressure.
+
+64
+00:04:17,000 --> 00:04:19,000
+Phyllis, did you break wind?
+
+65
+00:04:19,000 --> 00:04:21,000
+It's okay.
